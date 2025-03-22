@@ -9,10 +9,10 @@ DISTRIBUTED_ARGS="
 # arguments that are very likely to be changed
 # according to your own case
 MODEL_ID=llava-next-video-7b                            # model id; pick on by running `python supported_models.py`
-TRAIN_DATA_PATH=./example_data/ego4d_video_train.json   # path to the training data json file
-EVAL_DATA_PATH=./example_data/ego4d_video_eval.json     # path to the evaluation data json file (optional)
-IMAGE_FOLDER=./example_data/images                      # path to the image root folder; if provided, the image paths in the json should be relative
-VIDEO_FOLDER=./example_data/videos                      # path to the video root folder; if provided, the video paths in the json should be relative
+TRAIN_DATA_PATH=/ceph/home/songchun01/xiaoyuan/vra/lmms-finetune/generate_lmms_finetune_json/video_data.json   # path to the training data json file
+EVAL_DATA_PATH=/ceph/home/songchun01/xiaoyuan/vra/lmms-finetune/generate_lmms_finetune_json/video_data.json    # path to the evaluation data json file (optional)
+IMAGE_FOLDER=/ceph/home/songchun01/xiaoyuan/vra/lmms-finetune/generate_lmms_finetune_json/gen_video                     # path to the image root folder; if provided, the image paths in the json should be relative
+VIDEO_FOLDER=/ceph/home/songchun01/xiaoyuan/vra/lmms-finetune/generate_lmms_finetune_json/gen_video                     # path to the video root folder; if provided, the video paths in the json should be relative
 NUM_FRAMES=8                                            # how many frames are sampled from each video
 
 TRAIN_VISION_ENCODER=False                              # whether train the vision encoder
@@ -32,7 +32,7 @@ GRAD_ACCUM=1                                            # gradient accumulation 
 NUM_EPOCHS=5                                            # number of training epochs
 
 LR=2e-5                                                 # learning rate
-MODEL_MAX_LEN=512                                       # maximum input length of the model
+MODEL_MAX_LEN=4096                                       # maximum input length of the model
 
 
 torchrun $DISTRIBUTED_ARGS train.py \

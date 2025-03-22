@@ -1,0 +1,1752 @@
+[
+    {
+        "video": "hammer-v2-goal-observable/20/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/18/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/9/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/0/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/11/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/7/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/16/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/6/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/17/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/1/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/10/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/19/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/8/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/21/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/24/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/23/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/4/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/15/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/3/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/12/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/2/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/13/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/5/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "hammer-v2-goal-observable/14/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "hammer-v2-goal-observable/22/hammer-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve use hammer to nail the nail."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/20/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/18/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/9/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/0/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/11/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/7/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/16/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/6/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/17/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/1/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/10/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/19/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/8/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/21/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/24/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/23/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/4/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/15/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/3/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/12/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/2/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/13/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/5/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "basketball-v2-goal-observable/14/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "basketball-v2-goal-observable/22/basketball-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve move the ball to the basket."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/20/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/18/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/9/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/0/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/11/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/7/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/16/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/6/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/17/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/1/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/10/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/19/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/8/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/21/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/24/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/23/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/4/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/15/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/3/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/12/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/2/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/13/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/5/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-v2-goal-observable/14/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-v2-goal-observable/22/button press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/20/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/18/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/9/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/0/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/11/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/7/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/16/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/6/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/17/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/1/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/10/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/19/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/8/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/21/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/24/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/23/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/4/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/15/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/3/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/12/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/2/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/13/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/5/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/14/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "button-press-topdown-v2-goal-observable/22/button press topdown-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the button from top to down."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/20/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/18/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/9/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/0/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/11/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/7/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/16/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/6/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/17/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/1/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/10/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/19/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/8/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/21/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/24/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/23/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/4/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/15/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/3/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/12/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/2/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/13/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/5/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ],
+        "success": 0
+    },
+    {
+        "video": "handle-press-v2-goal-observable/14/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    },
+    {
+        "video": "handle-press-v2-goal-observable/22/handle press-0_out.gif",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>This video's target is to use the robot arm to achieve press the handle."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ],
+        "success": 1
+    }
+]
